@@ -26,7 +26,7 @@ Distintos titulos
 
 * Técnico Superior de Desarrollo de Aplicaciones Informáticas
 
-    * Por Real decreto de equivalencias LOGSE a LOE:
+    * Por Real Decreto de equivalencias LOGSE a LOE:
         - Desarrollo de Aplicaciones Multiplataforma
 
 
